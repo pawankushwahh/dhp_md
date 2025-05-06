@@ -1,0 +1,844 @@
+Company,Location,Job Title,min_salary,max_salary,avg_salary
+Attento Technologies Pvt Ltd,"Pune, Pimpri-Chinchwad",Software Engineer (Frontend),10000.0,10000.0,10000.0
+Digicians,Ahmedabad,Data Engineer,5000.0,6500.0,5750.0
+CodingCraft By KBD Group,Pune,Software Engineer (Backend),13000.0,15000.0,14000.0
+BVR Technosoft Solution,Gurgaon,Full Stack Developer,12000.0,12000.0,12000.0
+QuantGlobal,"Delhi, Ghaziabad, Greater Noida, Noida",Data Engineer,15000.0,20000.0,17500.0
+Across The Globe (ATG),Work from home,Software Engineer (Frontend),2500.0,4000.0,3250.0
+Loan For India,Mumbai,Data Scientist,5000.0,10000.0,7500.0
+Digital Heroes,Lucknow,Data Scientist,10000.0,25000.0,17500.0
+Shrevya Technologies,Work from home,Junior Developer,15000.0,15000.0,15000.0
+OBLYTECH INDIA PRIVATE LIMITED,Work from home,Data Scientist,6500.0,6500.0,6500.0
+Loan For India,Mumbai,Web Development,5000.0,10000.0,7500.0
+Sixnine Galaxies Private Limited,Work from home,Full Stack Developer,5000.0,10000.0,7500.0
+Fountainhead Prep,Work from home,Full Stack Developer,25000.0,25000.0,25000.0
+APA Engineering,Chennai,iOS Developer,12500.0,15000.0,13750.0
+Pehchaan AI Technologies,Chandigarh,Full Stack Developer,10000.0,15000.0,12500.0
+Indian Robotics Solution,Noida,Cybersecurity Analyst,6000.0,8000.0,7000.0
+Ace 360,Mumbai,Mobile Developer,5000.0,10000.0,7500.0
+TGC Technologies Private Limited,Pune,Data Scientist,7000.0,7000.0,7000.0
+VrajPath ITech LLP,Work from home,Data Scientist,10000.0,15000.0,12500.0
+XpertStim IT Services Pvt. Ltd.,Pune,Data Scientist,7000.0,35000.0,21000.0
+TechStat Dynamics,Ludhiana,Data Scientist,8000.0,10000.0,9000.0
+Decour Homes,Work from home,Data Scientist,5000.0,7000.0,6000.0
+Blazonlabs Itech Private Limited,Jaipur,Web Development,10000.0,14000.0,12000.0
+Main Marshals,Lucknow,Machine Learning Engineer,8000.0,10000.0,9000.0
+InterviewVector,Gurgaon,Software Engineer (Backend),25000.0,30000.0,27500.0
+And We Support,Jaipur,QA Engineer,5000.0,10000.0,7500.0
+BELAKHEDA UDAY BHARTI SAMAJ KALYAN SAMITEE,"Chennai, Bangalore",Software Engineer (Frontend),8000.0,10000.0,9002.5
+Sathmile Rehabilitetion Centre For Disabled,Work from home,Mobile Developer,8000.0,10000.0,9002.5
+R.K. Bhandari & Co.,Work from home,Full Stack Developer,5000.0,6000.0,5500.0
+Neolytix,"Delhi, Gurgaon",Software Engineer (Backend),15000.0,18000.0,16500.0
+Bezt Labs,Work from home,Data Scientist,10000.0,11000.0,10500.0
+Visible Gain,Work from home,Web Development,5000.0,5000.0,5000.0
+LUMINELLE INFRATECH PRIVATE LIMITED,Noida,Data Scientist,10000.0,15000.0,12500.0
+Designing World,Work from home,Web Development,1300.0,1500.0,1400.0
+SortWind Private Limited,Work from home,Data Scientist,4000.0,4000.0,4000.0
+Bound Fresh,Work from home,Data Scientist,9000.0,12000.0,10500.0
+Kidzian Private Limited,Work from home,Machine Learning Engineer,1500.0,2000.0,1750.0
+Bloom Agency,Mumbai,NLP Engineer,8000.0,12000.0,10000.0
+Rentkar-Switch To Share,Mumbai,DevOps Engineer,10000.0,12000.0,11000.0
+The Sleep Company,Mumbai,Machine Learning Engineer,25000.0,30000.0,27500.0
+SPIDERWEB,Work from home,Web Development,4000.0,5000.0,4500.0
+Coding Junior,Work from home,QA Engineer,8000.0,10000.0,9002.5
+EduCreative Digication (OPC) Pvt. Ltd,Work from home,Full Stack Developer,5000.0,8000.0,6500.0
+EduCreative Digication (OPC) Pvt. Ltd,Work from home,Full Stack Developer,5000.0,8000.0,6500.0
+Green Letter Technologies,Work from home,Full Stack Developer,5000.0,10000.0,7500.0
+Shrevya Technologies,Work from home,Technical Writer,15000.0,15000.0,15000.0
+Musak Digital,Work from home,Data Scientist,5000.0,6500.0,5750.0
+OBLYTECH INDIA PRIVATE LIMITED,Work from home,Data Scientist,7000.0,7000.0,7000.0
+Switch Climate Tech,Pune,Data Scientist,10000.0,10000.0,10000.0
+Relinns Technologies,Mohali,Cloud Engineer,10000.0,12000.0,11000.0
+Anew Technologies,Chennai,Data Scientist,20000.0,20000.0,20000.0
+Maati 16,Work from home,Data Scientist,5000.0,10000.0,7500.0
+SortWind Private Limited,Work from home,Full Stack Developer,5000.0,5000.0,5000.0
+CADIN360,Delhi,Full Stack Developer,5000.0,5000.0,5000.0
+Vibra Softech LLP,Work from home,QA Engineer,8000.0,10000.0,9000.0
+Artha Dhaara Corporate Advisory,Bhubaneswar,Android Developer,5000.0,10000.0,7500.0
+Big Bulls,Work from home,Junior Developer,8000.0,30000.0,19000.0
+BOOKMATIC PRIVATE LIMITED,Work from home,Software Engineer (Frontend),13000.0,18000.0,15500.0
+Innovura Technologies Private Limited,Ahmedabad,QA Engineer,10000.0,12000.0,11000.0
+SkillifyMe,Work from home,Full Stack Developer,3000.0,5000.0,4000.0
+Maxgen Technologies Private Limited,Pune,Software Engineer (Frontend),7000.0,12000.0,9500.0
+Maxgen Technologies Private Limited,Pune,Software Engineer (Backend),7000.0,12000.0,9500.0
+Maxgen Technologies Private Limited,Ahmedabad,Web Development,7000.0,12000.0,9500.0
+InternBit,Work from home,Full Stack Developer,25000.0,40000.0,32500.0
+Amero Research & Loyalty Solutions Private Limited,Ahmedabad,QA Engineer,6000.0,12000.0,9000.0
+Urbaforce Solutions Private Limited,Delhi,NLP Engineer,15000.0,16000.0,15500.0
+Astirmind,"Ludhiana, Phagwara, Khanna",Data Scientist,5000.0,5000.0,5000.0
+Perfect Hit Advisory,Work from home,Machine Learning Engineer,1000.0,1001.0,1000.5
+Rythukart Private Limited,Work from home,Data Scientist,1000.0,2000.0,1500.0
+Rythukart Private Limited,Work from home,DevOps Engineer,1000.0,2000.0,1500.0
+Rythukart Private Limited,Work from home,Full Stack Developer,1000.0,2000.0,1500.0
+Brave Artificial Intelligence Laboratory,Work from home,Data Scientist,15000.0,25000.0,20000.0
+Brave Artificial Intelligence Laboratory,Work from home,QA Engineer,15000.0,25000.0,20000.0
+Brave Artificial Intelligence Laboratory,Work from home,Data Scientist,15000.0,25000.0,20000.0
+Brave Artificial Intelligence Laboratory,Work from home,Data Scientist,10000.0,20000.0,15000.0
+Brave Artificial Intelligence Laboratory,Work from home,Software Engineer (Backend),10000.0,20000.0,15000.0
+KC Digital Consultants,Work from home,Web Development,3000.0,3000.0,3000.0
+ClearTax,Bangalore,Web Development,25000.0,30000.0,27500.0
+Accel,Work from home,Data Scientist,6000.0,11000.0,8500.0
+Workbinders Private Limited,Work from home,DevOps Engineer,5000.0,10000.0,7500.0
+Nish E-Service OPC Private Limited,"Pune, Nagpur, Maharashtra, Chhatrapati Sambhajinagar (Aurangabad)",Web Development,2000.0,2000.0,2000.0
+Minus Equals Plus,Work from home,Data Scientist,3000.0,5000.0,4000.0
+Bezt Labs,Work from home,Data Scientist,10000.0,11000.0,10500.0
+ReyMould Technology Solutions Private Limited,Hyderabad,Data Scientist,5000.0,10000.0,7500.0
+Factacy.Ai,Gurgaon,Software Engineer (Backend),15000.0,15000.0,15000.0
+The Education Diary,Work from home,iOS Developer,5000.0,7000.0,6000.0
+Tealbox Digital,Gurgaon,QA Engineer,8000.0,8000.0,8000.0
+Andromeda Labs,Work from home,DevOps Engineer,10000.0,10000.0,10000.0
+AlfaMate,Work from home,Full Stack Developer,5000.0,12000.0,8500.0
+Catalift,Work from home,Data Scientist,5000.0,8000.0,6500.0
+Ideation Pitch,Delhi,iOS Developer,6000.0,12000.0,9000.0
+Maxgen Technologies Private Limited,"Ahmedabad, Rajkot",Machine Learning Engineer,7000.0,12000.0,9500.0
+TECHVITTA INNOVATIONS PRIVATE LIMITED,Hyderabad,Machine Learning Engineer,10000.0,10000.0,10000.0
+FiftyOne DigitalMedia LLP,Indore,Data Scientist,8000.0,18000.0,13000.0
+Skyingskills Edutech Pvt. Ltd.,Delhi,Software Engineer (Frontend),5000.0,10000.0,7500.0
+iB Arts Private Limited,Kolkata,Data Scientist,12000.0,21000.0,16500.0
+Aproposdrive Technologies,Pune,Mobile Developer,4000.0,5000.0,4500.0
+Infoware,Work from home,Data Scientist,5000.0,10000.0,7500.0
+Career Launcher,Delhi,UI/UX Designer,9000.0,10000.0,9500.0
+Finflock Systems Private Limited,Work from home,Full Stack Developer,12000.0,14000.0,13000.0
+Faclon,Mumbai,Web Development,15000.0,25000.0,20000.0
+Maxgen Technologies Private Limited,Ahmedabad,Software Engineer (Frontend),7000.0,12000.0,9500.0
+Plural Code Technologies,Delhi,Software Engineer (Frontend),13000.0,15000.0,14000.0
+Salesqueen Software Solutions,Work from home,Web Development,2500.0,5000.0,3750.0
+Aaans Services Private Limited,Work from home,Machine Learning Engineer,10000.0,30000.0,20000.0
+JMedia Corporation,Work from home,Machine Learning Engineer,5000.0,15000.0,10000.0
+International Institute Of SDGs & Public Policy Research,Work from home,Web Development,8000.0,10000.0,9002.5
+Rythukart Private Limited,Work from home,Data Scientist,1000.0,2000.0,1500.0
+Rythukart Private Limited,Work from home,Full Stack Developer,1000.0,2000.0,1500.0
+Rythukart Private Limited,Work from home,Software Engineer (Backend),1000.0,2000.0,1500.0
+Rythukart Private Limited,Work from home,Machine Learning Engineer,1000.0,2000.0,1500.0
+Fleapo,Work from home,Cybersecurity Analyst,15000.0,16000.0,15500.0
+AVTECHFIN,Delhi,Software Engineer (Frontend),3001.0,20000.0,11500.5
+Atlantis Multitrade Pvt Ltd,Nagpur,Mobile Developer,4000.0,4000.0,4000.0
+OyeLabs,Work from home,Web Development,5000.0,10000.0,7500.0
+Trove Craft,Hyderabad,Junior Developer,8000.0,10000.0,9000.0
+Attento Technologies Pvt Ltd,"Pune, Pimpri-Chinchwad",Software Engineer (Frontend),10000.0,10000.0,10000.0
+Custom Elements Private Limited,Bangalore,Web Development,5000.0,5000.0,5000.0
+Daten & Wissen Private Limited,Mumbai,Software Engineer (Backend),5000.0,6000.0,5500.0
+Pehchaan AI Technologies,Work from home,Data Scientist,10000.0,15000.0,12500.0
+NayePankh Foundation,Work from home,Data Scientist,8000.0,10000.0,9002.5
+Aaptatt,Work from home,Data Scientist,20000.0,23000.0,21500.0
+IQuanta,Gurgaon,Cybersecurity Analyst,11000.0,18000.0,14500.0
+Digital Guruji,Work from home,Machine Learning Engineer,5000.0,5000.0,5000.0
+Bezt Labs,Work from home,Machine Learning Engineer,10000.0,11000.0,10500.0
+Thoughtiv,Hyderabad,Full Stack Developer,10000.0,25000.0,17500.0
+Maxgen Technologies Private Limited,"Ahmedabad, Rajkot",Data Scientist,7000.0,12000.0,9500.0
+Bezt Labs,Work from home,Data Scientist,10000.0,11000.0,10500.0
+MAALIONDOOR SERVICES PRIVATE LIMITED,"Delhi, Ghaziabad, Noida",Data Scientist,3500.0,6000.0,4750.0
+MagicMond Global,Work from home,Mobile Developer,20000.0,20000.0,20000.0
+THW - The Healthy World,Pune,Android Developer,10000.0,15000.0,12500.0
+Daskalos Education,Work from home,Data Scientist,6000.0,8000.0,7000.0
+Byteprolabs,Bangalore,Data Scientist,15000.0,20000.0,17500.0
+Lawtech,Work from home,Software Engineer (Frontend),7000.0,10000.0,8500.0
+Sankalp Kumar,Noida,Web Development,16000.0,20000.0,18000.0
+Deepnexus S,Work from home,Machine Learning Engineer,16000.0,24000.0,20000.0
+Watrana Traction Private Limited,Delhi,Web Development,8000.0,8000.0,8000.0
+HLSR Technologies (Ask IRa),Work from home,Data Scientist,10001.0,16000.0,13000.5
+Inorbvict Healthcare India Private Limited,Pune,Software Engineer (Frontend),3000.0,6000.0,4500.0
+Oxygen To Innovation,"Delhi, Noida",Data Scientist,15000.0,15000.0,15000.0
+Emoolar Technology Private Limited,Work from home,Data Scientist,5000.0,7000.0,6000.0
+Banana Threads,Work from home,Cybersecurity Analyst,2000.0,2500.0,2250.0
+Infoware,Work from home,Machine Learning Engineer,6000.0,10000.0,8000.0
+Mintosh Advisory,Work from home,Data Scientist,3000.0,5000.0,4000.0
+Softcell Technologies Limited,Mumbai,Machine Learning Engineer,24999.0,25000.0,24999.5
+WebTrafficly,Hyderabad,Data Scientist,4000.0,10000.0,7000.0
+Better,Work from home,UI/UX Designer,8000.0,10000.0,9000.0
+CollegeTips Ed Tech Media Private Limited,Bhopal,Machine Learning Engineer,2000.0,10000.0,6000.0
+CollegeTips Ed Tech Media Private Limited,Work from home,Web Development,10000.0,25000.0,17500.0
+CollegeTips Ed Tech Media Private Limited,Work from home,Machine Learning Engineer,10000.0,25000.0,17500.0
+Sun Fibo Technology Private Limited,"Pune, Mumbai",Data Scientist,10000.0,15000.0,12500.0
+Scale Dev,Work from home,Full Stack Developer,8000.0,10000.0,9000.0
+CodeXcelerate IT Consultancy,Work from home,Web Development,2000.0,2000.0,2000.0
+Viewebit,Ahmedabad,Data Scientist,6000.0,8000.0,7000.0
+Netwale,"Kozhikode, Malappuram",Game Developer,500.0,1000.0,750.0
+Sourcign,Work from home,Data Scientist,5000.0,15000.0,10000.0
+CodeStudios,Mumbai,QA Engineer,8000.0,14000.0,11000.0
+Syscon Electro Tech India Private Limited,Work from home,Cloud Engineer,8000.0,12000.0,10000.0
+Syscon Electro Tech India Private Limited,Work from home,Machine Learning Engineer,8000.0,12000.0,10000.0
+Ryzen Forge,Work from home,Data Scientist,4000.0,40000.0,22000.0
+Artizence,Work from home,Machine Learning Engineer,5000.0,10000.0,7500.0
+DPGINTECH,Work from home,Web Development,2000.0,2000.0,2000.0
+COMICODE AI SOLUTIONS Private Limited,Chennai,Machine Learning Engineer,9000.0,12000.0,10500.0
+Andaz Kumar,Work from home,Machine Learning Engineer,10000.0,18000.0,14000.0
+Hostelery Stuff,Bareilly,Software Engineer (Frontend),8005.0,10005.0,9005.0
+Fiddle,Work from home,Data Scientist,40000.0,40000.0,40000.0
+Edith Defence Systems Private Limited,Navi Mumbai,Web Development,12000.0,15000.0,13500.0
+Quantazone,Work from home,Data Scientist,5000.0,5000.0,5000.0
+Quantazone,Work from home,Web Development,5000.0,5000.0,5000.0
+RegisterKaro,Gurgaon,Data Scientist,5000.0,10000.0,7500.0
+Supersourcing,Indore,Machine Learning Engineer,8000.0,10000.0,9000.0
+Andaz Kumar,Work from home,Full Stack Developer,6000.0,9000.0,7500.0
+Rahul Sir Classes,Work from home,Web Development,3000.0,6000.0,4500.0
+Opinione,Jaipur,Game Developer,10000.0,27000.0,18500.0
+Trimax Infotech Pvt. Ltd.,Vadodara,Data Scientist,2000.0,2000.0,2000.0
+Codeacious Technologies Private Limited,Work from home,Data Scientist,5000.0,7000.0,6000.0
+Wartin Labs,"Delhi, Noida",Software Engineer (Frontend),10000.0,10001.0,10000.5
+TeamLease Regtech,Pune,Software Engineer (Frontend),7000.0,10000.0,8500.0
+Unimonks,Work from home,Blockchain Developer,3500.0,6000.0,4750.0
+ConversAIlabs,Work from home,Full Stack Developer,15000.0,15001.0,15000.5
+Isha Tayal,Delhi,Mobile Developer,8000.0,12000.0,10000.0
+Eduminatti,Work from home,Web Development,5000.0,10000.0,7500.0
+Naum Systems,Work from home,Data Scientist,20000.0,20000.0,20000.0
+Aaptatt,Work from home,Data Scientist,20000.0,29000.0,24500.0
+Aaptatt,Work from home,Data Scientist,20000.0,29000.0,24500.0
+B3NET TECHNOLOGIES,Kolkata,Machine Learning Engineer,2000.0,2000.0,2000.0
+Inorbvict Healthcare India Private Limited,Pune,Machine Learning Engineer,3000.0,6000.0,4500.0
+Wrexa Technologies LLC,Work from home,Game Developer,10000.0,10000.0,10000.0
+Skalebuddy Software Private Limited,Work from home,Full Stack Developer,8000.0,8000.0,8000.0
+Mobio Solutions,Ahmedabad,Data Scientist,5000.0,6000.0,5500.0
+Techdome Solutions Private Limited,"Indore, Hyderabad",Data Scientist,10000.0,15000.0,12500.0
+PlanetMeta.Live,Hyderabad,UI/UX Designer,10000.0,12000.0,11000.0
+Gigin Technologies Private Limited,Bangalore,Machine Learning Engineer,20000.0,30000.0,25000.0
+The Doodle Desk,Work from home,Data Scientist,5000.0,10000.0,7500.0
+Techdome Solutions Private Limited,"Indore, Hyderabad",Machine Learning Engineer,10000.0,15000.0,12500.0
+COSGrid Systems Private Limited,Chennai,Cloud Engineer,12000.0,20000.0,16000.0
+Techdome Solutions Private Limited,"Indore, Hyderabad",Data Scientist,5000.0,10000.0,7500.0
+Techdome Solutions Private Limited,"Indore, Hyderabad",Mobile Developer,10000.0,15000.0,12500.0
+Techdome Solutions Private Limited,"Indore, Hyderabad",DevOps Engineer,10000.0,15000.0,12500.0
+Lets Go Makkah,Work from home,Data Scientist,22000.0,25000.0,23500.0
+Rentkar-Switch To Share,Mumbai,Full Stack Developer,10000.0,12000.0,11000.0
+Techdome Solutions Private Limited,"Indore, Hyderabad",Data Scientist,10000.0,15000.0,12500.0
+Techdome Solutions Private Limited,"Indore, Hyderabad",Machine Learning Engineer,10000.0,15000.0,12500.0
+Srchout Software Private Limited,Gurgaon,Software Engineer (Frontend),10000.0,10000.0,10000.0
+Techdome Solutions Private Limited,"Indore, Hyderabad",Machine Learning Engineer,10000.0,15000.0,12500.0
+Mathionix Technologies Pvt Ltd,Jaipur,Software Engineer (Frontend),4000.0,10000.0,7000.0
+Diasimos Private Limited,Ahmedabad,Full Stack Developer,9000.0,10000.0,9500.0
+TechPio Services LLP,"Chandigarh, Chennai",NLP Engineer,10000.0,15000.0,12500.0
+Circle Health,Bangalore,Web Development,25000.0,30000.0,27500.0
+Gigde Global Solutions Private Limited,Work from home,Full Stack Developer,7000.0,10000.0,8500.0
+Gigde Global Solutions Private Limited,Work from home,Software Engineer (Backend),7000.0,10000.0,8500.0
+Brihat Infotech Private Limited,Work from home,Data Scientist,3000.0,4000.0,3500.0
+Fundrev,Bangalore,Machine Learning Engineer,25000.0,25000.0,25000.0
+Integral Solution,Work from home,Full Stack Developer,8000.0,10000.0,9000.0
+CloudBird Digital Private Limited,Work from home,Full Stack Developer,8000.0,8000.0,8000.0
+Emoolar Technology Private Limited,Work from home,Machine Learning Engineer,5000.0,7000.0,6000.0
+Arogyam,Work from home,Web Development,20000.0,20000.0,20000.0
+Supervaisor.AI,Work from home,Full Stack Developer,20000.0,35000.0,27500.0
+Hubnine India Private Limited,Work from home,Software Engineer (Frontend),5000.0,15000.0,10000.0
+Naum Systems,Work from home,Full Stack Developer,10000.0,10000.0,10000.0
+Yardstick,Work from home,Full Stack Developer,5000.0,10000.0,7500.0
+Rydeu Logistics UG,Work from home,Software Engineer (Backend),10000.0,12000.0,11000.0
+Sentaram Sahu,Work from home,Data Scientist,4500.0,6000.0,5250.0
+She Can Foundation,Work from home,Web Development,8000.0,10000.0,9002.5
+Indus Action,Vijayawada,Data Scientist,20000.0,40000.0,30000.0
+React Labs Private Limited,Bangalore,Research Scientist,16000.0,20000.0,18000.0
+LineupX,Mumbai,Mobile Developer,10000.0,15000.0,12500.0
+Intain Technologies Private Limited,Chennai,Data Scientist,10000.0,13000.0,11500.0
+GigzGenie,Work from home,Full Stack Developer,6000.0,6000.0,6000.0
+FynTune Solution Private Limited,"Thane, Navi Mumbai",Software Engineer (Frontend),12000.0,18000.0,15000.0
+House Of Couton Private Limited,Work from home,Machine Learning Engineer,12000.0,25000.0,18500.0
+Elementals.ai,Bangalore,Machine Learning Engineer,15000.0,15000.0,15000.0
+Marshee Pet Tech,Work from home,Software Engineer (Frontend),10000.0,20000.0,15000.0
+Baweja Media,Work from home,Data Scientist,5000.0,5000.0,5000.0
+GoZyva Technologies Pvt Ltd,Work from home,Software Engineer (Frontend),10000.0,12000.0,11000.0
+ANIVALE Private Limited,Work from home,Web Development,7000.0,7000.0,7000.0
+SNS Square Consultancy Services,Coimbatore,Mobile Developer,10000.0,10000.0,10000.0
+Lawtech,Work from home,QA Engineer,6000.0,8000.0,7000.0
+Raylogic Control Systems Pvt Ltd,Mumbai,Data Scientist,15000.0,25000.0,20000.0
+Vamaship,Mumbai,Full Stack Developer,10000.0,10001.0,10000.5
+ValueLens,Work from home,Data Scientist,30000.0,45000.0,37500.0
+El Codamics,Coimbatore,Web Development,2000.0,2000.0,2000.0
+Emoolar Technology Private Limited,Work from home,Cloud Engineer,5000.0,7000.0,6000.0
+Nashbud,Work from home,iOS Developer,3000.0,5000.0,4000.0
+Indiaum Solutions,Work from home,Cybersecurity Analyst,10000.0,12000.0,11000.0
+Indiaum Solutions,Work from home,Data Scientist,10000.0,12000.0,11000.0
+Neuralens AI,"Faridabad, Delhi, Ghaziabad, Gurgaon, Greater Noida, Noida",Full Stack Developer,15000.0,20000.0,17500.0
+Infits,Work from home,Web Development,5000.0,6000.0,5500.0
+Krayton Gaming,Work from home,Data Scientist,4200.0,5000.0,4600.0
+She Can Foundation,Work from home,Data Scientist,8000.0,10000.0,9002.5
+Axe Consultancy And Security Services LLC,Work from home,Data Scientist,10000.0,15000.0,12500.0
+Educase India,Work from home,Software Engineer (Frontend),5000.0,5000.0,5000.0
+Amopa Solutions Private Limited,Bangalore,Web Development,5000.0,6000.0,5500.0
+INFAB Semiconductor Private Limited,Bangalore,Data Engineer,2000.0,5000.0,3500.0
+The Brand Mocha,"Thane, Navi Mumbai, Mumbai",Data Scientist,5000.0,7000.0,6000.0
+Boxnbiz Technologies Private Limited,Bangalore,UI/UX Designer,25000.0,35000.0,30000.0
+Pickcel,Bangalore,QA Engineer,15000.0,18000.0,16500.0
+QuadB Tech,Work from home,Game Developer,5000.0,5001.0,5000.5
+Sachin Gurjar,Work from home,Software Engineer (Frontend),20000.0,40000.0,30000.0
+Supervaisor.AI,Work from home,Data Scientist,20000.0,35000.0,27500.0
+Protega,Mumbai,Full Stack Developer,15000.0,20000.0,17500.0
+Amplicomm Solutions Private Limited,Pune,QA Engineer,5000.0,7500.0,6250.0
+Preheal Innovations Private Limited,Patna,Data Scientist,3000.0,8000.0,5500.0
+Mindmyweb,Work from home,Data Scientist,20000.0,40000.0,30000.0
+TringBox,Work from home,Data Scientist,4000.0,15000.0,9500.0
+Srestham Educational Trust,Work from home,Machine Learning Engineer,1500.0,3000.0,2250.0
+Brandwizz Communications Private Limited,Kolkata,Web Development,8000.0,10000.0,9000.0
+The Design Palette,Bangalore,Game Developer,12000.0,18000.0,15000.0
+Techcanvass,"Thane, Navi Mumbai, Mumbai",Mobile Developer,10000.0,12000.0,11000.0
+Tycoonverse,Lucknow,Data Scientist,4000.0,6500.0,5250.0
+Aap Ka Bazaar Tradeweb Llp,Delhi,Full Stack Developer,10000.0,14000.0,12000.0
+Digital Gimmick,Work from home,Full Stack Developer,12000.0,15000.0,13500.0
+Pay4Ref,Work from home,Software Engineer (Backend),7000.0,7000.0,7000.0
+Pay4Ref,Work from home,Data Scientist,8000.0,10000.0,9000.0
+Meru Technosoft Private Limited,Ahmedabad,Full Stack Developer,5000.0,10000.0,7500.0
+Demandlane,Work from home,Data Scientist,10000.0,16000.0,13000.0
+Lohitech Solutions,Work from home,Data Scientist,2000.0,2001.0,2000.5
+Fraxotic Innovations Private Limited,Work from home,Data Scientist,3000.0,3000.0,3000.0
+Fonix Technologies,Jaipur,Software Engineer (Backend),5000.0,10000.0,7500.0
+Idea Usher,Work from home,Mobile Developer,12000.0,15000.0,13500.0
+Sedani Digital Private Limited,Ahmedabad,Software Engineer (Frontend),3000.0,3000.0,3000.0
+Cloudify,Work from home,Software Engineer (Backend),14000.0,15000.0,14500.0
+Cloudify,Work from home,Software Engineer (Backend),14000.0,15000.0,14500.0
+Ratio Ventures LLP,Bangalore,Full Stack Developer,15000.0,25000.0,20000.0
+Altie Reality Private Limited,Jaipur,Data Scientist,5000.0,5000.0,5000.0
+DEVNEURAL,Work from home,Data Scientist,5000.0,10000.0,7500.0
+Rapsys Info Tech,Chennai,Data Scientist,2500.0,3000.0,2750.0
+SafeMax Security,Work from home,Software Engineer (Backend),20000.0,25000.0,22500.0
+IDZ Digital Private Limited,Work from home,Game Developer,8000.0,10000.0,9000.0
+Joveo,Work from home,Software Engineer (Backend),50000.0,50000.0,50000.0
+WebShark Web Services,Bangalore,Web Development,20000.0,25000.0,22500.0
+Madrocket Technologies & Media,Work from home,Software Engineer (Frontend),1000.0,5000.0,3000.0
+Anuj Mehta,Work from home,iOS Developer,5000.0,10000.0,7500.0
+PURNYX ENTERTAINMENT PRIVATE LIMITED,Work from home,UI/UX Designer,5000.0,5000.0,5000.0
+1accord,Mumbai,DevOps Engineer,13000.0,20000.0,16500.0
+Cognitio Eduventures Private Limited,Work from home,Data Scientist,13000.0,15000.0,14000.0
+OyeLabs,Work from home,DevOps Engineer,5000.0,10000.0,7500.0
+Emoolar Technology Private Limited,Work from home,Cybersecurity Analyst,5000.0,7000.0,6000.0
+WES Consultancy & Services Private Limited,Raipur,Data Scientist,6000.0,8000.0,7000.0
+Trigrexam,Work from home,Full Stack Developer,10000.0,12000.0,11000.0
+Isourse,Delhi,Machine Learning Engineer,30000.0,33001.0,31500.5
+Distinctive Marketing Solutions,Work from home,NLP Engineer,10000.0,15000.0,12500.0
+Basti Ki Pathshala Foundation,Work from home,Mobile Developer,8000.0,10000.0,9002.5
+Vedaz,Work from home,Full Stack Developer,5000.0,5000.0,5000.0
+Messold Technologies,Work from home,Web Development,7000.0,10000.0,8500.0
+ITGAI Software Solutions Opc Private Limited,Dehradun,Data Scientist,5000.0,5000.0,5000.0
+XivTech,Work from home,Data Scientist,15000.0,15000.0,15000.0
+Resolute AI Software Private Limited,Work from home,QA Engineer,10000.0,10000.0,10000.0
+ToXSL Technologies Private Limited,Mohali,Web Development,5000.0,10000.0,7500.0
+Arbhu Enterprises Private Limited,Bangalore,NLP Engineer,20000.0,20000.0,20000.0
+Aspire Infinity Solutions Pvt Ltd,Jaipur,Machine Learning Engineer,8000.0,12000.0,10000.0
+Walnut Research And Development Centre,Work from home,Game Developer,8000.0,10000.0,9000.0
+Stirring Minds,Delhi,Data Scientist,7000.0,8000.0,7500.0
+NFJ Labs Private Limited,Work from home,Technical Writer,7500.0,8500.0,8000.0
+Velozity Global Solutions,Chennai,Mobile Developer,15000.0,20000.0,17500.0
+Landsking Infra Private Limited,Indore,Data Scientist,7000.0,25000.0,16000.0
+SMARRTIF AI,Delhi,Machine Learning Engineer,5000.0,5000.0,5000.0
+Hype Digitally,Indore,Web Development,6000.0,12000.0,9000.0
+Enpointe,Mumbai,Full Stack Developer,15000.0,25000.0,20000.0
+Prodigal SoftTech India Private Limited,Work from home,Data Scientist,10000.0,10001.0,10000.5
+Srchout Software Private Limited,Gurgaon,Software Engineer (Backend),10000.0,12000.0,11000.0
+Highavenue,Work from home,Machine Learning Engineer,12000.0,12000.0,12000.0
+TRUE FILES INDIA LLP,Varanasi,Data Scientist,7000.0,18000.0,12500.0
+Energy Alternatives India,Chennai,Machine Learning Engineer,15000.0,20000.0,17500.0
+Avon Building Solutions Private Limited,Pune,Data Scientist,12500.0,20000.0,16250.0
+Munshot,Work from home,Machine Learning Engineer,10000.0,10001.0,10000.5
+Neyvin Technologies,Work from home,Web Development,2000.0,8000.0,5000.0
+Nippon Data Systems Limited,Noida,Data Scientist,6000.0,6000.0,6000.0
+KasperTech,Work from home,Data Scientist,15000.0,15000.0,15000.0
+Tutedude,Work from home,Data Scientist,5000.0,8000.0,6500.0
+Alphabt,"Gurgaon, Lucknow, Manesar",Machine Learning Engineer,12500.0,15000.0,13750.0
+Stories Arabia FZ,Work from home,Junior Developer,5500.0,9000.0,7250.0
+Reach Technologies,Work from home,Machine Learning Engineer,11000.0,15000.0,13000.0
+Reach Technologies,Work from home,Web Development,7000.0,9000.0,8000.0
+Reach Technologies,Work from home,Data Scientist,8000.0,9000.0,8500.0
+Reach Technologies,Work from home,iOS Developer,7000.0,9000.0,8000.0
+Lumaqi.com,Work from home,Data Scientist,5000.0,10000.0,7500.0
+Digital Guruji,Delhi,Full Stack Developer,15000.0,15000.0,15000.0
+Digital Guruji,Work from home,Mobile Developer,5000.0,5000.0,5000.0
+Still Travelling,Work from home,Software Engineer (Frontend),10000.0,10000.0,10000.0
+Meru Technosoft Private Limited,Work from home,Software Engineer (Frontend),5000.0,8000.0,6500.0
+Dexterous Manufacturing Labs Private Limited,Bangalore,Software Engineer (Backend),15000.0,20000.0,17500.0
+CharmAI Technologies,Delhi,Full Stack Developer,10000.0,15000.0,12500.0
+Nityacare Health Technologies Pvt Ltd,"Navi Mumbai, Mumbai",Data Scientist,15000.0,23000.0,19000.0
+Digital Guruji,Work from home,Data Scientist,7500.0,7500.0,7500.0
+Weframe Tech,Work from home,Full Stack Developer,13000.0,35000.0,24000.0
+OrangePe Solutions,Work from home,Data Scientist,5000.0,10000.0,7500.0
+GOITDEV TECHNOLOGIES OPC PRIVATE LIMITED,Work from home,Game Developer,3000.0,5000.0,4000.0
+Neobhi,Bangalore,Web Development,5000.0,15000.0,10000.0
+FynTune Solution Private Limited,"Thane, Navi Mumbai, Turbhe",Data Engineer,12000.0,18000.0,15000.0
+FynTune Solution Private Limited,"Thane, Navi Mumbai, Turbhe",Software Engineer (Frontend),8000.0,12000.0,10000.0
+S.S. Rana & Company,Delhi,Web Development,4000.0,5000.0,4500.0
+S.S. Rana & Company,Delhi,Data Scientist,4000.0,5000.0,4500.0
+Apex Style,Work from home,UI/UX Designer,1400.0,2000.0,1700.0
+Apex Style,Work from home,Data Engineer,1400.0,2000.0,1700.0
+Apex Style,Work from home,Web Development,1400.0,2300.0,1850.0
+Apex Style,Work from home,Technical Writer,1500.0,2300.0,1900.0
+Apex Style,Work from home,Data Engineer,1400.0,2000.0,1700.0
+Apex Style,Work from home,Game Developer,1400.0,2000.0,1700.0
+Apex Style,Work from home,Machine Learning Engineer,1500.0,2300.0,1900.0
+Apex Style,Work from home,Data Scientist,1500.0,2500.0,2000.0
+S.S. Rana & Company,Delhi,Machine Learning Engineer,4000.0,5000.0,4500.0
+Apex Style,Work from home,Cybersecurity Analyst,1400.0,2000.0,1700.0
+TechStax Private Limited,Work from home,Mobile Developer,10000.0,20000.0,15000.0
+Apex Style,Work from home,Data Scientist,1500.0,2500.0,2000.0
+Apex Style,Work from home,Data Scientist,1500.0,2500.0,2000.0
+Apex Style,Work from home,Web Development,1500.0,2500.0,2000.0
+Apex Style,Work from home,Game Developer,1500.0,2500.0,2000.0
+Apex Style,Work from home,Android Developer,1500.0,2500.0,2000.0
+Apex Style,Work from home,Technical Writer,1500.0,2500.0,2000.0
+Apex Style,Work from home,Cloud Engineer,1500.0,2500.0,2000.0
+Apex Style,Work from home,Software Engineer (Backend),1500.0,2500.0,2000.0
+Apex Style,Work from home,Software Engineer (Frontend),1500.0,2500.0,2000.0
+Apex Style,Work from home,Blockchain Developer,1500.0,2500.0,2000.0
+URE Legal Advocates,Work from home,Research Scientist,1000.0,1000.0,1000.0
+Apex Style,Work from home,Junior Developer,1500.0,2500.0,2000.0
+Apex Style,Work from home,Data Scientist,1500.0,2500.0,2000.0
+Apex Style,Work from home,Software Engineer (Backend),1500.0,2500.0,2000.0
+Apex Style,Work from home,Software Engineer (Frontend),1500.0,2500.0,2000.0
+Apex Style,Work from home,Software Engineer (Frontend),1500.0,2500.0,2000.0
+Apex Style,Work from home,Web Development,1500.0,2500.0,2000.0
+Apex Style,Work from home,Data Scientist,1500.0,2500.0,2000.0
+Apex Style,Work from home,Full Stack Developer,1500.0,2500.0,2000.0
+Apex Style,Work from home,Data Engineer,1500.0,2500.0,2000.0
+Digital Heroes,Work from home,Web Development,15000.0,15000.0,15000.0
+OxYmora Technology Private Limited,Jaipur,Web Development,3000.0,3000.0,3000.0
+Capital Engineering,Work from home,Full Stack Developer,15000.0,15000.0,15000.0
+GigFloww,Work from home,Data Scientist,1000.0,1000.0,1000.0
+Brihat Infotech Private Limited,Work from home,Data Scientist,3500.0,4000.0,3750.0
+DataVinci Private Limited,Work from home,Full Stack Developer,7000.0,7000.0,7000.0
+GigFloww,Work from home,Data Scientist,1000.0,1000.0,1000.0
+Business Quant,Work from home,Data Scientist,5000.0,10000.0,7500.0
+Prashant Kumar LTD,Work from home,Research Scientist,9000.0,9000.0,9000.0
+FunMotionLabs,Work from home,Data Scientist,8000.0,12000.0,10000.0
+ROBOKALAM,Warangal,Web Development,6000.0,20000.0,13000.0
+SunEmison Solar Energy Private Limited,Hyderabad,Data Scientist,1500.0,1500.0,1500.0
+"Inova Compamed Pvt. Ltd., Bangalore",Bangalore,Data Scientist,8000.0,10000.0,9000.0
+EY,"Ahmedabad, Mumbai",Data Scientist,8000.0,10000.0,9002.5
+Realfy Oasis,Work from home,Full Stack Developer,5000.0,5000.0,5000.0
+Requin Solutions Private Limited,Jaipur,Junior Developer,10000.0,12000.0,11000.0
+Viral Inbound,Work from home,Web Development,5000.0,5000.0,5000.0
+FreJun Incorporation,Work from home,QA Engineer,14000.0,14000.0,14000.0
+Rancho Labs,Work from home,Data Scientist,7000.0,7500.0,7250.0
+CircleChess,Bangalore,Data Scientist,10000.0,15000.0,12500.0
+Digvijay Industries,Aurangabad,Software Engineer (Backend),5000.0,8000.0,6500.0
+Velozity Global Solutions,Work from home,Software Engineer (Backend),8000.0,10000.0,9000.0
+CipherSchools,"Chandigarh, Gurgaon, Mohali, Greater Noida, Noida, Punjab",Software Engineer (Backend),60000.0,80000.0,70000.0
+CipherSchools,"Chandigarh, Gurgaon, Mohali, Greater Noida, Noida",Full Stack Developer,60000.0,80000.0,70000.0
+CipherSchools,"Chandigarh, Gurgaon, Mohali, Greater Noida, Noida, Punjab",Web Development,60000.0,80000.0,70000.0
+Whatbytes,Work from home,Data Scientist,10000.0,20000.0,15000.0
+AppLocum International LLP - India,Ahmedabad,QA Engineer,5000.0,5000.0,5000.0
+Wrexa Technologies LLC,Work from home,Machine Learning Engineer,10000.0,15000.0,12500.0
+Pb Holotech India Pvt Ltd,"Kolkata, Howrah",UI/UX Designer,7500.0,12000.0,9750.0
+Doshion Polyscience Private Limited,"Ahmedabad, Sanand",NLP Engineer,13500.0,18000.0,15750.0
+Vizuara,Pune,Machine Learning Engineer,20000.0,25000.0,22500.0
+Greenin Urja,Vikasnagar,Software Engineer (Backend),8000.0,12000.0,10000.0
+Softsensor.ai,Jaipur,Full Stack Developer,12000.0,16000.0,14000.0
+Stoic Investment Managers,Faridabad,Mobile Developer,15000.0,20000.0,17500.0
+Jivichem Synthesis Private Limited,Work from home,Machine Learning Engineer,25000.0,25000.0,25000.0
+Chaintech Network,Ahmedabad,QA Engineer,9000.0,10000.0,9500.0
+Educase India,Work from home,Software Engineer (Backend),5000.0,5000.0,5000.0
+ROUTINE REGIME PRIVATE LIMITED,Noida,Software Engineer (Backend),10000.0,10000.0,10000.0
+Aaptatt,Work from home,iOS Developer,18000.0,25000.0,21500.0
+Jivichem Synthesis Private Limited,Work from home,Machine Learning Engineer,22000.0,22000.0,22000.0
+Jivichem Synthesis Private Limited,Work from home,Data Scientist,20000.0,20000.0,20000.0
+Reveation Labs,Work from home,Data Scientist,5000.0,7000.0,6000.0
+CSTech Infosolutions Private Limited,Bangalore,Mobile Developer,10000.0,15000.0,12500.0
+Proptelligence Technologies,Work from home,Machine Learning Engineer,4500.0,5000.0,4750.0
+RSVR Technlogies Private Limited,Work from home,Machine Learning Engineer,25000.0,25000.0,25000.0
+Ess Pee Quality Products,Mohali,QA Engineer,10000.0,20000.0,15000.0
+AIMonk Labs Technology Limited,Work from home,Cybersecurity Analyst,10000.0,15000.0,12500.0
+Whatbytes,Work from home,Data Scientist,10000.0,20000.0,15000.0
+Hubnine India Private Limited,Work from home,Machine Learning Engineer,8000.0,15000.0,11500.0
+Rukhmani Treasures,Pune,Data Scientist,6000.0,10000.0,8000.0
+Graveiens Eduservices Private Limited,Work from home,Machine Learning Engineer,21000.0,32000.0,26500.0
+Whatbytes,Work from home,Software Engineer (Backend),10000.0,20000.0,15000.0
+Digital Heroes,Work from home,Data Scientist,15000.0,15000.0,15000.0
+Digital Guruji,Delhi,Full Stack Developer,15000.0,15000.0,15000.0
+Infinity Plus 1,"Mumbai, Navi Mumbai, Kurla",Data Scientist,5000.0,10000.0,7500.0
+Adstacks Media,Gurgaon,Mobile Developer,11000.0,12000.0,11500.0
+AFD India,"Ernakulam, Cochin",Machine Learning Engineer,11000.0,15000.0,13000.0
+Factacy.Ai,Gurgaon,Data Scientist,15000.0,15000.0,15000.0
+ConversAIlabs,Work from home,Junior Developer,5000.0,5001.0,5000.5
+Vyorius Drones Private Limited,Work from home,Full Stack Developer,3000.0,5000.0,4000.0
+Renan Partners,Work from home,Data Scientist,5000.0,5000.0,5000.0
+Meteoros Automation,Chennai,Software Engineer (Frontend),5000.0,11000.0,8000.0
+UnifyXperts,Mumbai,Full Stack Developer,15000.0,15000.0,15000.0
+Chandrima Datta,Work from home,Web Development,6000.0,8000.0,7000.0
+Isourse,Delhi,Software Engineer (Backend),27000.0,30001.0,28500.5
+Final Round AI,Work from home,Cloud Engineer,15000.0,18000.0,16500.0
+Daten & Wissen Private Limited,Mumbai,Software Engineer (Backend),4000.0,5000.0,4500.0
+IDZ Digital Private Limited,Mumbai,Software Engineer (Frontend),8000.0,10000.0,9000.0
+Digital Heroes,Work from home,Machine Learning Engineer,2000.0,2000.0,2000.0
+Big Internet E-commerce Private Limited,Work from home,Full Stack Developer,5000.0,10000.0,7500.0
+Jivichem Synthesis Private Limited,Work from home,Web Development,6000.0,6000.0,6000.0
+Final Round AI,Work from home,Software Engineer (Backend),15000.0,18000.0,16500.0
+Indika AI Private Limited,"Delhi, Noida",Blockchain Developer,8000.0,12000.0,10000.0
+W3Dev,Work from home,Software Engineer (Frontend),5000.0,8000.0,6500.0
+TheBlackJabGroup,Work from home,Web Development,10000.0,30000.0,20000.0
+QUARTERSTACK TECHNOLOGIES PRIVATE LIMITED,Work from home,Software Engineer (Frontend),10000.0,10000.0,10000.0
+QUARTERSTACK TECHNOLOGIES PRIVATE LIMITED,Work from home,Web Development,10000.0,10000.0,10000.0
+QUARTERSTACK TECHNOLOGIES PRIVATE LIMITED,Work from home,Software Engineer (Frontend),10000.0,10000.0,10000.0
+Avi Sharma,Work from home,Machine Learning Engineer,5000.0,10000.0,7500.0
+Medicalbook,Work from home,Web Development,4000.0,4000.0,4000.0
+EclipseIQ.ai,Work from home,Full Stack Developer,11000.0,25000.0,18000.0
+10kart,Hyderabad,Data Scientist,8000.0,17000.0,12500.0
+Avi Sharma,Work from home,Data Scientist,10000.0,10000.0,10000.0
+Personal Touch Skincare,Gurgaon,Data Scientist,20000.0,20000.0,20000.0
+Vsure Consultancy Services,Navi Mumbai,Machine Learning Engineer,10000.0,15000.0,12500.0
+MAGIKTROVE,Work from home,Data Scientist,1000.0,2000.0,1500.0
+Login2Xplore,Work from home,Data Scientist,6000.0,7500.0,6750.0
+Cartoq,Work from home,Web Development,15000.0,15000.0,15000.0
+Buddha Education Association Incorporation,"Ahmedabad, Chandigarh, Chennai, Coimbatore, Pune, Surat, Ahmednagar, Vadodara, Mumbai, Kochi, Jaipur, Nagpur, Nashik, Goa Velha, Bangalore",Data Scientist,10000.0,10000.0,10000.0
+Sedani Digital Private Limited,Ahmedabad,Software Engineer (Backend),3000.0,3000.0,3000.0
+Velozity Global Solutions,Work from home,NLP Engineer,20000.0,30000.0,25000.0
+ConversAIlabs,Work from home,Cloud Engineer,3000.0,3000.0,3000.0
+DCverse,Work from home,Data Scientist,10000.0,20000.0,15000.0
+Uzence Design Studio,Work from home,Data Scientist,2000.0,2000.0,2000.0
+Countai Private Limited,Coimbatore,Cloud Engineer,10000.0,10000.0,10000.0
+Skygoal Tech,Hyderabad,iOS Developer,4000.0,6000.0,5000.0
+Vomychat.com,Work from home,Data Scientist,100.0,500.0,300.0
+ConversAIlabs,Work from home,Game Developer,3000.0,3001.0,3000.5
+ConversAIlabs,Work from home,Software Engineer (Backend),3000.0,3001.0,3000.5
+Cyrus 365,Work from home,Blockchain Developer,11000.0,15000.0,13000.0
+KIWIS AND BROWNIES IT SOLUTIONS INDIA PRIVATE LIMITED,Bangalore,Data Scientist,10000.0,15000.0,12500.0
+The Lean Guy Show,Work from home,Web Development,1001.0,10000.0,5500.5
+Innovation99,Bangalore,Data Scientist,15000.0,15000.0,15000.0
+Better,Work from home,Software Engineer (Frontend),8000.0,10000.0,9000.0
+Better,Work from home,Software Engineer (Frontend),8000.0,10000.0,9000.0
+International Institute Of SDGs & Public Policy Research,Work from home,Software Engineer (Backend),8000.0,10000.0,9002.5
+Edreate Institute LLP,Work from home,Full Stack Developer,5000.0,15000.0,10000.0
+Vaishnavi Wellness,Bangalore,Web Development,10000.0,11000.0,10500.0
+Aquesa Solutions Private Limited,Work from home,Web Development,5300.0,5700.0,5500.0
+SkillGenic Academy,Indore,Full Stack Developer,10000.0,20000.0,15000.0
+IDZ Digital Private Limited,Work from home,Game Developer,8000.0,8000.0,8000.0
+Freecharge Payments Technology Private Limited,Gurgaon,Machine Learning Engineer,15000.0,16000.0,15500.0
+Addlens Technologies Private Limited,Work from home,QA Engineer,2000.0,5000.0,3500.0
+Quantasis Private Limited,Mumbai,Mobile Developer,5000.0,8000.0,6500.0
+OBI INNOVATIONS PRIVATE LIMITED,Bangalore,Data Scientist,5000.0,75000.0,40000.0
+Kishore Ganth D,Work from home,Machine Learning Engineer,8000.0,8000.0,8000.0
+Infits,Work from home,Data Scientist,5500.0,7000.0,6250.0
+IoTReady,Bangalore,Mobile Developer,15000.0,20000.0,17500.0
+15M Ventures,"Pune, Chakan, Pimpri-Chinchwad, Alandi, Kalewadi, Hinjawadi",Web Development,8000.0,15000.0,11500.0
+FlexiEle Consulting Services Private Limited,Work from home,Software Engineer (Backend),15000.0,20000.0,17500.0
+Standard Labs LLC,Work from home,Full Stack Developer,10000.0,25000.0,17500.0
+NextEdge Labs,Work from home,Technical Writer,7500.0,7500.0,7500.0
+Digite Infotech Private Limited,Mumbai,Data Scientist,8000.0,10000.0,9000.0
+Nindo Education LLP,Work from home,Android Developer,5000.0,15000.0,10000.0
+Addlens Technologies Private Limited,Work from home,Software Engineer (Backend),3000.0,5000.0,4000.0
+TheDigitalShift,Work from home,Data Scientist,10000.0,15000.0,12500.0
+Nindo Education LLP,Work from home,Data Scientist,4000.0,8000.0,6000.0
+NextEdge Labs,Work from home,Software Engineer (Backend),5000.0,5000.0,5000.0
+Kahani Technologies Private Limited,Pune,Data Scientist,12000.0,15000.0,13500.0
+Nindo Education LLP,Work from home,Web Development,4000.0,8000.0,6000.0
+Narigiri's Connect To Universe Private Limited,Work from home,Software Engineer (Backend),9000.0,9000.0,9000.0
+Energy Alternatives India,Chennai,Machine Learning Engineer,15000.0,20000.0,17500.0
+Longani Consulting,Work from home,Data Scientist,13000.0,40000.0,26500.0
+MentorBoxx,Work from home,Machine Learning Engineer,10000.0,10000.0,10000.0
+MentorBoxx,"Pune, Mumbai",Data Scientist,10000.0,10000.0,10000.0
+PANELVOICES PVT LTD (OPC),Work from home,Data Scientist,15000.0,20000.0,17500.0
+Arivu Educational Consultants Private Limited,Bangalore,Data Scientist,6000.0,6000.0,6000.0
+TheGoodBrowser,Gurgaon,Machine Learning Engineer,25000.0,30000.0,27500.0
+LDev Technologies Private Limited,Warangal,Software Engineer (Backend),2000.0,4000.0,3000.0
+SURUCHI CONSULTANTS,"Delhi, Ghaziabad, Noida",QA Engineer,2000.0,2500.0,2250.0
+TZURONI LTD.,Work from home,Machine Learning Engineer,5000.0,7000.0,6000.0
+Techqueto,Work from home,Web Development,3000.0,5000.0,4000.0
+TheDigitalShift,Work from home,Machine Learning Engineer,15000.0,15000.0,15000.0
+NovaFocus Private Limited,Work from home,Mobile Developer,18000.0,18000.0,18000.0
+Bharat Economic Forum,Work from home,Web Development,5000.0,15000.0,10000.0
+Amay Verma,Work from home,Data Scientist,5000.0,5000.0,5000.0
+Qwetzal Technologies,Dehradun,Web Development,6000.0,8000.0,7000.0
+Voxomos,Noida,Data Scientist,10000.0,30000.0,20000.0
+Visorfin Tech Services Pvt Ltd,"Agra, Mathura",Data Scientist,3000.0,5000.0,4000.0
+Blest Inn,Delhi,Data Scientist,7000.0,9000.0,8000.0
+Syva Syva,Work from home,Mobile Developer,9000.0,10000.0,9500.0
+Kots Daily Services Private Limited,Bangalore,Machine Learning Engineer,21000.0,21000.0,21000.0
+Aarogyaa Bharat,Pune,Machine Learning Engineer,12000.0,15000.0,13500.0
+Whatbytes,Work from home,Software Engineer (Backend),10000.0,20000.0,15000.0
+NatWest Group,Gurgaon,Software Engineer (Backend),45000.0,45000.0,45000.0
+Clappia,Bangalore,Data Scientist,20000.0,25000.0,22500.0
+TheCoinRepublic,Bhopal,Data Scientist,25000.0,25000.0,25000.0
+Integral Solution,Bangalore,Machine Learning Engineer,35000.0,40000.0,37500.0
+TheCoinRepublic,Bhopal,Web Development,25000.0,25000.0,25000.0
+Walnut Publication,"Faridabad, Delhi, Gurgaon, Noida",Software Engineer (Frontend),15000.0,22000.0,18500.0
+Kajal Innovation & Technical Solutions,Akola,Mobile Developer,4000.0,8000.0,6000.0
+Tutedude,Work from home,Cloud Engineer,25000.0,25000.0,25000.0
+Brand Fabricator,Work from home,Data Scientist,4000.0,5000.0,4500.0
+Yoliday LLP,Work from home,Cybersecurity Analyst,4000.0,5000.0,4500.0
+Joveo,Work from home,Data Scientist,50000.0,50000.0,50000.0
+Prinseps Auction Private Limited,Mumbai,Data Scientist,10000.0,15000.0,12500.0
+Disease Eradication Through Education And Prevention,Hyderabad,Data Scientist,8000.0,10000.0,9002.5
+Sunrise Immigration Consultants Pvt Ld,Chandigarh,QA Engineer,7000.0,20000.0,13500.0
+KlentySoft Incorporation,Chennai,Full Stack Developer,15000.0,25000.0,20000.0
+GVK Lead The Leader,Navi Mumbai,Mobile Developer,10000.0,15000.0,12500.0
+NatWest Group,Gurgaon,Cloud Engineer,40000.0,45000.0,42500.0
+GigFloww,Work from home,Web Development,1000.0,1000.0,1000.0
+Narigiri's Connect To Universe Private Limited,Work from home,Cybersecurity Analyst,1000.0,8000.0,4500.0
+NatWest Group,Gurgaon,Data Scientist,40000.0,45000.0,42500.0
+AroundMe,Hyderabad,Machine Learning Engineer,10000.0,20000.0,15000.0
+ConversAIlabs,Gurgaon,Software Engineer (Backend),10000.0,10000.0,10000.0
+Deshonnati Deshotkarsh Foundation,Work from home,Web Development,8000.0,10000.0,9002.5
+Sprintofy,Pune,Mobile Developer,3000.0,5000.0,4000.0
+Virtual Team Corporation Inc.,Work from home,Data Scientist,1500.0,4000.0,2750.0
+Polycrafts,Pune,Data Engineer,10000.0,10000.0,10000.0
+Emoolar Technology Private Limited,Work from home,NLP Engineer,5000.0,7000.0,6000.0
+CvDragon India,Kolkata,Mobile Developer,10000.0,10000.0,10000.0
+ConversAIlabs,Gurgaon,Data Scientist,10000.0,10001.0,10000.5
+ConversAIlabs,Gurgaon,Web Development,10000.0,10000.0,10000.0
+Pb Holotech India Pvt Ltd,"Howrah, Kanajuli",Machine Learning Engineer,9009.0,17000.0,13004.5
+KVAR Technologies Private Limited,Mumbai,Data Scientist,12000.0,15000.0,13500.0
+Crest Ai,Bangalore,Data Scientist,25000.0,50000.0,37500.0
+Accredian,Work from home,Software Engineer (Backend),10000.0,15000.0,12500.0
+Giift,Bangalore,Mobile Developer,15000.0,20000.0,17500.0
+Eklavya.me,Work from home,Data Scientist,1000.0,2000.0,1500.0
+VIVARAN INFOCOM PRIVATE LIMITED,Kolkata,Data Scientist,5000.0,10000.0,7500.0
+CodingCraft By KBD Group,Pune,Data Scientist,13000.0,15000.0,14000.0
+CodingCraft By KBD Group,Pune,Cybersecurity Analyst,13000.0,15000.0,14000.0
+CodingCraft By KBD Group,Pune,Machine Learning Engineer,13000.0,15000.0,14000.0
+Explified,Work from home,Game Developer,5000.0,5000.0,5000.0
+Digital Guruji,Delhi,Software Engineer (Frontend),15000.0,15000.0,15000.0
+Talent Corner HR Services,Mumbai,Junior Developer,15000.0,15000.0,15000.0
+Medi AI,Work from home,Full Stack Developer,12000.0,12000.0,12000.0
+GEMA Education Technology Private Limited,Work from home,Junior Developer,2000.0,2000.0,2000.0
+Ramyoz,Noida,Web Development,5000.0,10000.0,7500.0
+Beyondskool,Mumbai,Web Development,10000.0,12000.0,11000.0
+Kajkarma,Work from home,Web Development,3000.0,5000.0,4000.0
+MoLog Media & Advertising,Gurgaon,Data Scientist,10000.0,15000.0,12500.0
+Gold Coast Films LLP,Mumbai,Machine Learning Engineer,10000.0,10001.0,10000.5
+URE Legal Advocates,Work from home,Software Engineer (Backend),1000.0,1000.0,1000.0
+W3Dev,Noida,Technical Writer,5000.0,5000.0,5000.0
+Peers Global Business Platform,Ahmedabad,Data Scientist,2000.0,4000.0,3000.0
+Webgenesis,Jaipur,Web Development,2500.0,3000.0,2750.0
+NayePankh Foundation,Work from home,Web Development,8000.0,10000.0,9002.5
+Collabdiary,"Dombivli, Kalyan, Mumbai, Kurla",Data Scientist,30000.0,40000.0,35000.0
+IC Solutions,Work from home,Data Scientist,7001.0,13000.0,10000.5
+Vistaar Digital Communications Private Limited,Mumbai,QA Engineer,8000.0,8000.0,8000.0
+Infolog Solutions Private Limited,"Mysuru, Bangalore",iOS Developer,7000.0,8000.0,7500.0
+Inorbvict Healthcare India Private Limited,Pune,Web Development,3000.0,6000.0,4500.0
+DataVinci Private Limited,Work from home,Machine Learning Engineer,5000.0,5000.0,5000.0
+Skylink Fibernet Private Limited,Coimbatore,DevOps Engineer,8000.0,10000.0,9000.0
+Factacy.Ai,Gurgaon,QA Engineer,10000.0,15000.0,12500.0
+Homely Planet,Work from home,Full Stack Developer,5000.0,10000.0,7500.0
+CipherSchools,Work from home,Software Engineer (Backend),20000.0,30000.0,25000.0
+Bezt Labs,Work from home,Data Scientist,9000.0,10000.0,9500.0
+Graveiens Eduservices Private Limited,Work from home,Machine Learning Engineer,11000.0,32000.0,21500.0
+Betatest Solutions Private Limited,Work from home,Cloud Engineer,9000.0,10000.0,9500.0
+S.S. Rana & Company,Delhi,Data Scientist,5000.0,10000.0,7500.0
+Crobstacle Ventures LLP,"Dehradun, Rishikesh",Web Development,4500.0,10000.0,7250.0
+ViewZen Labs Private Limited,"Chennai, Bangalore",Machine Learning Engineer,15000.0,15000.0,15000.0
+Dendrite.ai,Work from home,Software Engineer (Frontend),1000.0,15000.0,8000.0
+Appzitter Technologies LLP,Work from home,Game Developer,10000.0,10001.0,10000.5
+Tutedude,Work from home,Machine Learning Engineer,25000.0,25000.0,25000.0
+S.S. Rana & Company,Delhi,Data Scientist,5000.0,10000.0,7500.0
+DevTown,Work from home,Data Scientist,8000.0,8000.0,8000.0
+Tutedude,Work from home,UI/UX Designer,25000.0,25000.0,25000.0
+SKILL GEEK PRIVATE LIMITED,Work from home,Technical Writer,25000.0,50000.0,37500.0
+WellM (Wellness Mandal Private Limited),Delhi,Data Scientist,10000.0,15000.0,12500.0
+Invest4Edu Private Limited,Work from home,Machine Learning Engineer,10000.0,10000.0,10000.0
+ADOBE,Bangalore,QA Engineer,8000.0,10000.0,9002.5
+Multiverz,Work from home,Research Scientist,1000.0,1000.0,1000.0
+TheDigitalShift,Work from home,Data Scientist,8000.0,8000.0,8000.0
+ExactSpace,Bangalore,DevOps Engineer,18000.0,18000.0,18000.0
+Indika AI Private Limited,Work from home,Full Stack Developer,8000.0,10000.0,9000.0
+CharterHouse,Pune,Mobile Developer,8000.0,12000.0,10000.0
+Development Logics,Work from home,Data Scientist,9000.0,15000.0,12000.0
+ROBOKALAM,Warangal,Data Scientist,5000.0,13000.0,9000.0
+United Business®,Work from home,Web Development,3000.0,9000.0,6000.0
+Tech-Tailor Solutions Private Limited,Bangalore,Data Scientist,10000.0,12500.0,11250.0
+On Demand Experts,Work from home,Data Scientist,10000.0,25000.0,17500.0
+CYBERED TECH PRIVATE LIMITED,Work from home,Data Scientist,1400.0,1400.0,1400.0
+Faaya,Work from home,Machine Learning Engineer,18000.0,27000.0,22500.0
+Kajkarma,Work from home,Web Development,1000.0,1000.0,1000.0
+Laxit Communications Private Limited,"Kalyan, Mumbai, Kurla",Data Scientist,21000.0,35000.0,28000.0
+EvolutionCo Digital & Interactive Consultancy Private Limited,Mumbai,Web Development,5000.0,8000.0,6500.0
+CogVerge,Mumbai,Data Scientist,5000.0,8000.0,6500.0
+Aastha Malik,Work from home,Data Scientist,1000.0,2000.0,1500.0
+Dopetech Solution,Work from home,Data Scientist,1500.0,1500.0,1500.0
+Isourse,Delhi,Data Engineer,20000.0,25000.0,22500.0
+MentorBoxx,"Amritsar, Aurangabad, Chandigarh, Delhi, Ghaziabad, Gurgaon, Patiala, Pune, Mumbai, Pimpri-Chinchwad, Noida, Raipur, Nagpur, Nashik",Data Scientist,10000.0,10000.0,10000.0
+YOUNG AND BILLIONAIRE,Delhi,Machine Learning Engineer,5000.0,8000.0,6500.0
+MentorBoxx,Work from home,Machine Learning Engineer,10000.0,10000.0,10000.0
+MentorBoxx,Work from home,Data Scientist,10000.0,10000.0,10000.0
+MentorBoxx,Work from home,Web Development,10000.0,10000.0,10000.0
+8Views,"Secunderabad, Hyderabad, Madhapuram, Telangana",QA Engineer,5000.0,5000.0,5000.0
+Velozity Global Solutions,Work from home,DevOps Engineer,10000.0,15000.0,12500.0
+Velozity Global Solutions,Work from home,Data Scientist,10000.0,15000.0,12500.0
+EV ChargeMan,Hyderabad,Data Scientist,10000.0,15000.0,12500.0
+Suraj,Ahmedabad,Software Engineer (Frontend),22000.0,22000.0,22000.0
+Softech And Network Solutions,North,Web Development,5000.0,12000.0,8500.0
+Blaziken Technologies Private Limited,Mumbai,QA Engineer,5000.0,8000.0,6500.0
+Gaincafe Technologies Private Limited,Jaipur,Data Scientist,5000.0,5000.0,5000.0
+Aniket Malik,Work from home,Data Scientist,1000.0,2500.0,1750.0
+Ai Unika Technologies Private Limited,Pune,Data Scientist,5000.0,8000.0,6500.0
+NLTI LAWKIFY PVT LTD,Chandigarh,Machine Learning Engineer,20000.0,25000.0,22500.0
+Arsik Creative Studio,Work from home,Machine Learning Engineer,5000.0,10000.0,7500.0
+Dashtoon,Work from home,Web Development,15000.0,15000.0,15000.0
+Nityora Labs,Work from home,Machine Learning Engineer,10000.0,20000.0,15000.0
+Vyaasa,Work from home,Full Stack Developer,10000.0,20000.0,15000.0
+Yes Advisors Private Limited,Work from home,Web Development,5500.0,7000.0,6250.0
+Infoware,Work from home,Mobile Developer,6000.0,10000.0,8000.0
+Yes Advisors Private Limited,Work from home,Machine Learning Engineer,6000.0,10000.0,8000.0
+Aashay Kapoor,Work from home,Web Development,5000.0,10000.0,7500.0
+Tutedude,Work from home,iOS Developer,25000.0,25000.0,25000.0
+Tutedude,Work from home,Full Stack Developer,25000.0,25000.0,25000.0
+Dacoid Digital,Work from home,Blockchain Developer,20000.0,25000.0,22500.0
+Sigillieum Software Consultants Pvt.Ltd,Work from home,Machine Learning Engineer,6000.0,6000.0,6000.0
+PracVerse Private Limited,Mumbai,Cybersecurity Analyst,5000.0,20000.0,12500.0
+Enlace Solutions,Mumbai,Web Development,10000.0,12000.0,11000.0
+Inferigence Quotient Private Limited,Bangalore,Data Scientist,5000.0,10000.0,7500.0
+Nexotech Solutions,Alappuzha,Software Engineer (Frontend),6000.0,8000.0,7000.0
+Tutedude,Work from home,Software Engineer (Backend),25000.0,25000.0,25000.0
+365 AI Tech,Work from home,DevOps Engineer,8000.0,8000.0,8000.0
+Digital Heroes,Work from home,Web Development,2000.0,5000.0,3500.0
+Albearoti Solutions Inc.,Work from home,Data Scientist,8000.0,10000.0,9000.0
+Custofar Technologies Pvt. Ltd.,Nagpur,Data Scientist,8000.0,10000.0,9000.0
+Niviverse Technologies Private Limited,Work from home,Mobile Developer,1000.0,5000.0,3000.0
+Ghackk Technologies,Bhagalpur,Data Scientist,5000.0,5000.0,5000.0
+NayePankh Foundation,Work from home,Mobile Developer,8000.0,10000.0,9002.5
+NayePankh Foundation,Work from home,Data Scientist,8000.0,10000.0,9002.5
+SPLEX,Work from home,Data Scientist,20000.0,25000.0,22500.0
+Virtual Team,Work from home,Data Scientist,3000.0,3000.0,3000.0
+Vyorius Drones Private Limited,Work from home,NLP Engineer,3000.0,5000.0,4000.0
+TwinLine Business Solutions Private Limited,Gurgaon,Full Stack Developer,20000.0,20000.0,20000.0
+We Do Your Tech,Work from home,Data Scientist,17500.0,20000.0,18750.0
+Gurucool,Jaipur,Software Engineer (Backend),8000.0,10000.0,9000.0
+Astute Lex Servicado Private Limited,Work from home,Software Engineer (Backend),4999.0,5000.0,4999.5
+Vyorius Drones Private Limited,Work from home,Machine Learning Engineer,3000.0,5000.0,4000.0
+Vyorius Drones Private Limited,Work from home,Machine Learning Engineer,3000.0,5000.0,4000.0
+Vyorius Drones Private Limited,Work from home,Technical Writer,3000.0,5000.0,4000.0
+Vyorius Drones Private Limited,Work from home,NLP Engineer,3000.0,5000.0,4000.0
+Vyorius Drones Private Limited,Work from home,Machine Learning Engineer,3000.0,5000.0,4000.0
+Scale Labs,Hyderabad,Research Scientist,10000.0,10000.0,10000.0
+Vyorius Drones Private Limited,Work from home,Game Developer,3000.0,5000.0,4000.0
+Hungama Digital Media Entertainment Private Limited,Noida,Machine Learning Engineer,5000.0,5000.0,5000.0
+Quantasis Private Limited,Mumbai,DevOps Engineer,10000.0,15000.0,12500.0
+Arhant Solutions,Ahmedabad,Software Engineer (Backend),7000.0,10000.0,8500.0
+Vyorius Drones Private Limited,Work from home,Software Engineer (Frontend),3000.0,5000.0,4000.0
+Arxena,Mumbai,Full Stack Developer,13000.0,45000.0,29000.0
+Vyorius Drones Private Limited,Work from home,Data Scientist,3000.0,5000.0,4000.0
+Vyorius Drones Private Limited,Work from home,Machine Learning Engineer,3000.0,5000.0,4000.0
+Emoolar Technology Private Limited,Work from home,Web Development,5000.0,7000.0,6000.0
+RR Forever Jewellery,Jaipur,Cybersecurity Analyst,6000.0,10000.0,8000.0
+Startupmancer,"Delhi, Noida",Data Scientist,4000.0,12000.0,8000.0
+Heal Easy,Work from home,Full Stack Developer,10000.0,20000.0,15000.0
+RealtyAI,Work from home,Machine Learning Engineer,1001.0,7501.0,4251.0
+Kyoren Labs Private Limited,Navi Mumbai,NLP Engineer,15000.0,20000.0,17500.0
+Buddha Education Association Incorporation,Work from home,Machine Learning Engineer,10000.0,10000.0,10000.0
+Buddha Education Association Incorporation,Work from home,Machine Learning Engineer,10000.0,10000.0,10000.0
+Buddha Education Association Incorporation,Work from home,Data Scientist,10000.0,10000.0,10000.0
+Buddha Education Association Incorporation,Work from home,Machine Learning Engineer,10000.0,10000.0,10000.0
+Buddha Education Association Incorporation,Work from home,Web Development,10000.0,10000.0,10000.0
+NatWest Group,Gurgaon,UI/UX Designer,45000.0,45000.0,45000.0
+LOBB,Bangalore,Data Scientist,10000.0,20000.0,15000.0
+Political Sampark,Work from home,Data Scientist,5000.0,8000.0,6500.0
+Hungama Digital Media Entertainment Private Limited,Mumbai,Data Scientist,10000.0,10000.0,10000.0
+ONE XL INFO LLP,Pune,Full Stack Developer,7000.0,7000.0,7000.0
+Fast Track Careers,Work from home,Cloud Engineer,5000.0,10000.0,7500.0
+Soundverse AI,Work from home,Software Engineer (Backend),10000.0,10000.0,10000.0
+Explified,Work from home,Full Stack Developer,5000.0,5000.0,5000.0
+The Core Systems,"Chandigarh, Mohali, Panchkula",Full Stack Developer,8000.0,8000.0,8000.0
+Enbraun Technologies Private Limited,Jaipur,Web Development,10000.0,10000.0,10000.0
+Learnify,Hyderabad,Data Scientist,5000.0,10000.0,7500.0
+Vitals7,"Hyderabad, Bangalore",Data Scientist,10000.0,40000.0,25000.0
+Rancho Labs,Work from home,Data Scientist,7500.0,7500.0,7500.0
+Greenin Urja,Vikasnagar,Data Scientist,8000.0,12000.0,10000.0
+TechHaus Software Services Private Limited,"Delhi, Ghaziabad, Gurgaon, Noida",Full Stack Developer,20000.0,20000.0,20000.0
+Muncho Technologies Private Limited,Work from home,Full Stack Developer,5000.0,10000.0,7500.0
+Mind Prabha Techonologies Private Limited,Pune,Mobile Developer,2000.0,2100.0,2050.0
+Maximilian Globus,Work from home,QA Engineer,3000.0,3000.0,3000.0
+Anubrain Technology Private Limited,Work from home,Machine Learning Engineer,3000.0,5000.0,4000.0
+Medius Technologies Private Limited,Work from home,Data Scientist,6500.0,6500.0,6500.0
+Medius Technologies Private Limited,Work from home,Blockchain Developer,6500.0,6500.0,6500.0
+Digital Guruji,Work from home,Full Stack Developer,5000.0,5000.0,5000.0
+Kanan Park Technologies LLP,Pune,Web Development,7500.0,10000.0,8750.0
+Sedani Digital Private Limited,Ahmedabad,Data Scientist,3000.0,3000.0,3000.0
+Jorim Technology Solutions Private Limited,Chennai,Web Development,8000.0,10000.0,9000.0
+CasePilot,Work from home,Full Stack Developer,20000.0,90000.0,55000.0
+Clinix Sphere,Work from home,Full Stack Developer,1500.0,2000.0,1750.0
+Tutedude,Work from home,Machine Learning Engineer,25000.0,25000.0,25000.0
+GEMA Education Technology Private Limited,Work from home,Machine Learning Engineer,2000.0,2000.0,2000.0
+GEMA Education Technology Private Limited,Work from home,Web Development,2000.0,2000.0,2000.0
+GEMA Education Technology Private Limited,Work from home,Data Scientist,2000.0,2000.0,2000.0
+GEMA Education Technology Private Limited,Work from home,NLP Engineer,2000.0,2000.0,2000.0
+Solvitude,Work from home,Data Scientist,1000.0,3000.0,2000.0
+Capes India,Mumbai,Web Development,5000.0,5000.0,5000.0
+Capes India,Mumbai,Blockchain Developer,5000.0,5000.0,5000.0
+PRAM,Work from home,Machine Learning Engineer,5001.0,5003.0,5002.0
+Factifi,Work from home,Data Scientist,1000.0,20000.0,10500.0
+Sipora Beverages Pvt Ltd,Delhi,Android Developer,2501.0,5002.0,3751.5
+Syncliner Software Platforms Pvt. Ltd.,Work from home,Software Engineer (Frontend),3000.0,5000.0,4000.0
+Indus Webpro,Work from home,Data Scientist,12000.0,30000.0,21000.0
+RegisterKaro,Gurgaon,Data Scientist,10000.0,15000.0,12500.0
+Asynzx Computing,Work from home,Full Stack Developer,8000.0,8000.0,8000.0
+Foodcow,Chennai,Web Development,5000.0,10000.0,7500.0
+Purple Cat Marketing,Work from home,Machine Learning Engineer,2000.0,5000.0,3500.0
+Loan For India,Work from home,Full Stack Developer,5000.0,7000.0,6000.0
+Suyash Kumar Dewangan,Work from home,Software Engineer (Frontend),2000.0,5000.0,3500.0
+IDZ Digital Private Limited,Mumbai,QA Engineer,8000.0,10000.0,9000.0
+Medius Technologies Private Limited,Work from home,Software Engineer (Frontend),6500.0,6500.0,6500.0
+Zentosys Solutions Private Limited,Work from home,Data Scientist,3000.0,7000.0,5000.0
+Swecha AP,Vijayawada,Machine Learning Engineer,8000.0,10000.0,9002.5
+IDZ Digital Private Limited,Work from home,Web Development,8000.0,10000.0,9000.0
+FynTune Solution Private Limited,"Thane, Navi Mumbai",Web Development,12000.0,18000.0,15000.0
+Encrobytes Technologies Private Limited,Faridabad,Full Stack Developer,10000.0,20000.0,15000.0
+Artklim,Work from home,Web Development,8000.0,8000.0,8000.0
+AroundYou,Work from home,Data Scientist,8000.0,15000.0,11500.0
+PJP Digital,Pune,Data Scientist,3500.0,5000.0,4250.0
+Worko.ai,Work from home,iOS Developer,5000.0,10000.0,7500.0
+Quantum IT Innovation,Work from home,Mobile Developer,10000.0,15000.0,12500.0
+Quantum IT Innovation,Work from home,Data Scientist,18000.0,23000.0,20500.0
+Quantum IT Innovation,Work from home,Technical Writer,10000.0,15000.0,12500.0
+Rydeu Logistics UG,Work from home,QA Engineer,10000.0,12000.0,11000.0
+Intugine Technologies Private Limited,Bengaluru,Blockchain Developer,10000.0,15000.0,12500.0
+Openbiz,Work from home,Full Stack Developer,20000.0,26000.0,23000.0
+Fallon Studio,Work from home,Full Stack Developer,3000.0,7000.0,5000.0
+Vantech Med International,Work from home,Software Engineer (Backend),12000.0,15000.0,13500.0
+Attyr,Work from home,Data Scientist,7000.0,8000.0,7500.0
+Meru Technosoft Private Limited,Work from home,Software Engineer (Backend),2800.0,5600.0,4200.0
+BookChor,Noida,Web Development,5000.0,7000.0,6000.0
+Omschrift Inventions (OPC) Private Limited,Ahmedabad,Web Development,2000.0,15000.0,8500.0
+RSVR Technlogies Private Limited,Work from home,Software Engineer (Frontend),15000.0,15000.0,15000.0
+Third Origin LLC,Work from home,Data Scientist,4999.0,5000.0,4999.5
+Briahsoft Technologies Private Limited,Work from home,Software Engineer (Frontend),10000.0,12000.0,11000.0
+Vui Consultancy Private Limited,Gurgaon,Full Stack Developer,15000.0,15000.0,15000.0
+Anemative Private Limited,Work from home,Game Developer,10000.0,20000.0,15000.0
+StoreShoppy Online Services Private Limited,"Faridabad, Delhi, Gurgaon, Noida",Software Engineer (Frontend),8000.0,12000.0,10000.0
+Koshish Charitable Trust,"Jamui, Patna, Samastipur, Rajauli",Web Development,8000.0,10000.0,9002.5
+Bhash Software Labs Private Limited,Bengaluru,Web Development,18000.0,20000.0,19000.0
+Ashu Vikhe,Work from home,Data Scientist,12000.0,14000.0,13000.0
+Expose Trendze,Work from home,Data Scientist,4500.0,6000.0,5250.0
+Aaptatt,Work from home,DevOps Engineer,16000.0,20000.0,18000.0
+Skymute Technology Private Limited,Work from home,Mobile Developer,10000.0,15000.0,12500.0
+OutFlo,Work from home,Full Stack Developer,25000.0,25000.0,25000.0
+ATS Studio,Jaipur,Web Development,5000.0,10000.0,7500.0
+Ishan Khandelwal,Work from home,Mobile Developer,10000.0,12500.0,11250.0
+COSGrid Systems Private Limited,Chennai,Machine Learning Engineer,15000.0,25000.0,20000.0
+Reliance Jio,Bengaluru,Data Scientist,8000.0,10000.0,9002.5
+UniCult,"Coimbatore, Bengaluru",Machine Learning Engineer,20000.0,30000.0,25000.0
+Reliance Jio,Gurgaon,Data Scientist,8000.0,10000.0,9002.5
+Reliance Jio,Dharmapuri,QA Engineer,8000.0,10000.0,9002.5
+Reliance Jio,Gurgaon,NLP Engineer,8000.0,10000.0,9002.5
+Acumensa Technologies,Work from home,Web Development,7500.0,12000.0,9750.0
+Oracle,Bengaluru,Full Stack Developer,8000.0,10000.0,9002.5
+COSGrid Systems Private Limited,Chennai,Data Scientist,15000.0,25000.0,20000.0
+Qualcomm,"Chennai, Bengaluru, Hyderabad, Noida",Mobile Developer,8000.0,10000.0,9002.5
+Digital Heroes,Lucknow,Data Scientist,10000.0,25000.0,17500.0
+Amazon,"Chennai, Delhi, Bengaluru",Data Scientist,8000.0,10000.0,9002.5
+Amazon,Bengaluru,Data Scientist,8000.0,10000.0,9002.5
+GK Gadgets,Work from home,Web Development,3000.0,8000.0,5500.0
+Pulse Pharmaceuticals,Hyderabad,Data Scientist,10000.0,15000.0,12500.0
+Amazon,Bengaluru,Data Scientist,8000.0,10000.0,9002.5
+PwC,Gurgaon,Machine Learning Engineer,8000.0,10000.0,9002.5
+Intel,Bengaluru,Junior Developer,8000.0,10000.0,9002.5
+Cabswale,Jaipur,Mobile Developer,16000.0,25000.0,20500.0
+Cabswale,Jaipur,Machine Learning Engineer,16000.0,25000.0,20500.0
+Intel,Bengaluru,Junior Developer,8000.0,10000.0,9002.5
+IBM,Kochi,Full Stack Developer,8000.0,10000.0,9002.5
+IBM,Bengaluru,Cybersecurity Analyst,8000.0,10000.0,9002.5
+Cabswale,Jaipur,Software Engineer (Backend),16000.0,25000.0,20500.0
+IBM,Bengaluru,Data Engineer,8000.0,10000.0,9002.5
+Pelvaan (UltimaLabs Private Limited),Work from home,Data Scientist,5000.0,10000.0,7500.0
+Weboin Technologies Private Limited,Chennai,Software Engineer (Frontend),10000.0,10000.0,10000.0
+Qualcomm,"Chennai, Bengaluru, Hyderabad, Noida",Cybersecurity Analyst,40000.0,43000.0,41500.0
+IntelliSQR,"Faridabad, Gurgaon, Noida, Delhi",Full Stack Developer,10000.0,12000.0,11000.0
+Quantinent Analytics,Work from home,Full Stack Developer,5000.0,5000.0,5000.0
+Lateral Works Studio,Vasai,Machine Learning Engineer,5000.0,10000.0,7500.0
+Lohitech Solutions,Work from home,Data Scientist,4000.0,8000.0,6000.0
+Modgenics Technology Solutions Private Limited,Work from home,Web Development,10000.0,15000.0,12500.0
+AI4SEE PRIVATE LIMITED,Bengaluru,Software Engineer (Frontend),3000.0,5000.0,4000.0
+Meru Technosoft Private Limited,Work from home,Mobile Developer,7000.0,10000.0,8500.0
+Pinak Idea Lab Private Limited,Work from home,Machine Learning Engineer,5000.0,5000.0,5000.0
+SatyaSys Tech Private Limited,Kolkata,Software Engineer (Backend),5000.0,10000.0,7500.0
+Homely Planet,Work from home,Software Engineer (Frontend),5000.0,10000.0,7500.0
+Hubnine India Private Limited,Work from home,Data Engineer,15000.0,75000.0,45000.0
+CCBUL,Work from home,Data Scientist,3000.0,3000.0,3000.0
+Webmobi,Work from home,Software Engineer (Frontend),3000.0,3000.0,3000.0
+BookmyPackers,Work from home,Full Stack Developer,3000.0,5000.0,4000.0
+Chat With Nerd,Work from home,Machine Learning Engineer,12000.0,12000.0,12000.0
+StartCoding,Work from home,Machine Learning Engineer,15000.0,15000.0,15000.0
+Meru Technosoft Private Limited,Work from home,Android Developer,6000.0,6000.0,6000.0
+InstaWeb Labs Private Limited,Mumbai,Data Scientist,10000.0,20000.0,15000.0
+InstaWeb Labs Private Limited,Work from home,Technical Writer,10000.0,25000.0,17500.0
+Rustic Wisdom,Bengaluru,Web Development,8000.0,8000.0,8000.0
